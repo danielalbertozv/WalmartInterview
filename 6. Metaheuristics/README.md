@@ -6,7 +6,7 @@ Version 1.0.0
 
 >Please do not hesitate in contacting me if there are any questions or comments
 
-Metaheuristic examples coded in **Java** : Metaheuristic Folder
+Metaheuristic examples coded in **Java** : Metaheuristics Folder
 
 6.1 Simulated Annealing\
 6.2 Tabu Search\
