@@ -8,4 +8,4 @@ Version 1.0.0
 
 The following figure briefly explains the relationship between branch and bound, column generation, and row generation.
 
-![alt text](https://github.com/danielalbertozv/WalmarInterview/tree/main/Decomposition_Techniques_Summary.jpg?raw=true)
+![Decomposition_Techniques_Summary](https://user-images.githubusercontent.com/85410921/135765230-5dd7d310-be82-44e8-b851-b81e6a3377ee.jpg)
