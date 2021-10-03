@@ -6,7 +6,7 @@ Version 1.0.0
 
 >Please do not hesitate in contacting me if there are any questions or comments
 
-For detail explanations and model formulations, please refer to the files **Example_Walmart.pdf** or **Example_Walmart.tex**.
+For detail explanations and model formulations, please refer to the files **Example_Walmart_v1.pdf** or **Example_Walmart_v1.tex**.
 
 This project provides examples based on the job profile description and other recommended topics as follows:
 
