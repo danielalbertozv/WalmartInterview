@@ -8,7 +8,7 @@ Version 1.0.0
 
 Two index vehicle routing problem coded for **CPLEX** and 
 
-**C++**    :   VehicleRouting.cpp
-**C#**     :   Walmart_VehicleRouting.cs
-**Java**   :   VehicleRouting.java
+**C++**    :   VehicleRouting.cpp\
+**C#**     :   Walmart_VehicleRouting.cs\
+**Java**   :   VehicleRouting.java\
 **Python** :   Walmrt_VehicleRouting.jpynb
