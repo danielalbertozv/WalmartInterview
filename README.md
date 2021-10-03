@@ -6,6 +6,8 @@ Version 1.0.0
 
 >Please do not hesitate in contacting me if there are any questions or comments
 
+For detail explanations and model formulations, please refer to the files **Example_Walmart.pdf** or **Example_Walmart.tex**.
+
 This project provides examples based on the job profile description and other recommended topics as follows:
 
 1. Vehicle Routing Problem (VRP)
@@ -17,13 +19,13 @@ This project provides examples based on the job profile description and other re
 7. Dynamic Programming
 8. SQL Example
 
-provided in each folder are coded in **C++**, **C#**, and **Python** using **CPLEX** and **GUROBI** as a solver when necessary.
+The folders include examples performed with:
+* **C++**: coding examples using CPLEX and C++ (Visual Studio is required (or Visual Studio Code and MinGW G++ compiler), CPLEX is required if solver is used).
+* **C#**: coding examples using CLPEX and C# (Visual Studio is required, CPLEX is required if solver is used).
+* **Python**: coding examples using CPLEX and Python (examples are coded using Anaconda with Jupyter Notebook, CPLEX is required if solver is used).
+* **Java**: coding examples using CPLEX and Java (examples are coded using Eclipse, CPLEX is required if solver is used).
 
-The folders include the following coding files:
-* **CPP_CPLEX**: coding examples using CPLEX and C++ (Visual Studio is required (or Visual Studio Code and MinGW G++ compiler), CPLEX is required if solver is used)
-* **CS_CPLEX**: coding examples using CLPEX and C# (Visual Studio is required, CPLEX is required if solver is used)
-* **Python_CPLEX**: coding examples using CPLEX and Python (examples are coded using Anaconda with Jupyter Notebook, CPLEX is required if solver is used)
-
+The **SQL** example is coded using MySQL.
 
 Additionally, a state-of-the-art **Vehicle Routing and Facility Location Research Database** is provided in the Research_Database folder.
 
