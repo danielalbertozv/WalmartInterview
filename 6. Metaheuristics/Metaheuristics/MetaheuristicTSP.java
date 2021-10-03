@@ -102,34 +102,7 @@ public class MetaheuristicTSP {
 		System.out.println("Press Enter key to continue...");
         try{System.in.read();}  
         	catch(Exception e){} 
-        
-        
-        //------------- GENETIC ALGORITHM ----------------
-               
-        // Call Genetic Algorithm and save time
-        startTime = System.currentTimeMillis();       
-        @SuppressWarnings("unused")
-		GeneticAlgorithm geneticAlgorithm = new GeneticAlgorithm();      
-        finalTime = System.currentTimeMillis() - startTime;
-        System.out.println("Time (miliseconds): " + finalTime);
-
-		System.out.println("Press Enter key to continue...");
-        try{System.in.read();}  
-        	catch(Exception e){} 
-        
-        
-        //------------- VARIABLE NEIGHBOR DESCENT ----------------
-              
-        // Call Variable Neighbor Descent and save time
-        startTime = System.currentTimeMillis();
-        //VariableNeighborDescent variableNeighborDescent = new VariableNeighborDescent(matrix, iterationsTabuSearch);      
-        finalTime = System.currentTimeMillis() - startTime;
-        System.out.println("Time (miliseconds): " + finalTime);
-
-		System.out.println("Press Enter key to continue...");
-        try{System.in.read();}  
-        	catch(Exception e){} 
-        
+                
         
        // ************************************************
        //------------- ACCESSING DATABASE ----------------
