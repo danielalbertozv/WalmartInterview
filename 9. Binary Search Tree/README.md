@@ -6,4 +6,4 @@ Version 1.0.0
 
 >Please do not hesitate in contacting me if there are any questions or comments
 
-Identify if a binary tree is binary search tree. (coded in **C++** with visual studio).
+Identify if a binary tree is binary search tree. (coded in **C++** with visual studio). BST.cpp
